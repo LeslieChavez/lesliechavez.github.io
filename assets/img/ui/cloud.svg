@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 45" style="enable-background:new 0 0 150 45;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#F6F9F8;}
+	.st2{display:inline;fill:#D8E5E1;}
+	.st3{display:inline;}
+	.st4{clip-path:url(#SVGID_2_);}
+	.st5{fill:none;stroke:#D8E5E1;stroke-width:2;stroke-miterlimit:10;}
+	.st6{clip-path:url(#SVGID_4_);}
+	.st7{fill:#F6F9F8;}
+</style>
+<g id="group3" class="st0">
+	<path id="bezier" class="st1" d="M0.2,44.6c-0.2-9.9,6.2-13.9,17.1-13.4c4-12.6,15.9-14.2,30.1-12C53,4,81.4-5.6,100,4.8
+		c6.5,3.7,9.9,9,15,13.9c18.2-7,38.1,7.1,34.1,25.9C99.5,44.6,49.8,44.6,0.2,44.6z"/>
+	<path id="bezier2" class="st2" d="M80.5,30c4,0,7.3-3.1,7.3-6.9H73.2C73.2,26.9,76.5,30,80.5,30z"/>
+	<g id="group" class="st3">
+		<g id="group2">
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="49.3" y="16.4" width="22.6" height="8.4"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g id="sVGID_2_" class="st4">
+					<path id="bezier4" class="st5" d="M65.9,20.6c2.7,2.6,2.7,6.8,0,9.4c-2.6,2.6-6.9,2.6-9.6,0c-2.6-2.6-2.6-6.8,0-9.4
+						C59,18,63.3,18,65.9,20.6z"/>
+				</g>
+			</g>
+		</g>
+		<g id="group4">
+			<g>
+				<defs>
+					<rect id="SVGID_3_" x="89.3" y="16.4" width="21.6" height="8.4"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+				</clipPath>
+				<g id="sVGID_4_" class="st6">
+					<path id="bezier6" class="st5" d="M105.2,20.6c2.5,2.6,2.5,6.8,0,9.4c-2.5,2.6-6.6,2.6-9.2,0c-2.5-2.6-2.5-6.8,0-9.4
+						C98.5,18.1,102.6,18.1,105.2,20.6z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<path class="st7" d="M3.2,45h146.1c-1.2-1.6-3.6-3-6-3.5c-4.1-0.9-8.8-0.7-12.2-2.8c-3.3-2-4.8-5.7-8.4-7.3
+	c-7.6-3.4-18.3,4.5-25.1,0.2c-4.1-2.6-4.3-8.4-9.1-9.9c-4.7-1.4-9.1,2.6-14,3.5c-6.6,1.2-12.7-3.3-16.1-8.1
+	C55.1,12.3,53,6.7,47.7,3.1c-4.1-2.8-10-3.8-15.1-2.7C27.4,1.5,23,4.8,21,8.9c-1.4,3-1.5,6.3-2.3,9.5c-0.8,3.2-2.6,6.5-6.1,7.9
+	c-2.3,1-5,1-7.3,2c-4.2,1.7-5.9,6.1-5.2,9.8C0.6,40.6,1.8,42.8,3.2,45z"/>
+</svg>

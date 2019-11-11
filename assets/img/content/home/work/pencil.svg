@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 282 284" style="enable-background:new 0 0 282 284;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F3F2F1;}
+	.st1{clip-path:url(#oval2_2_);}
+	.st2{fill:#3AA488;}
+	.st3{fill:#51BFA6;}
+	.st4{fill:#F4C5AE;}
+	.st5{clip-path:url(#oval2_2_);fill:#F4D0BD;}
+	.st6{clip-path:url(#oval2_2_);fill:#ECA043;}
+	.st7{clip-path:url(#oval2_2_);fill:#F6AE60;}
+	.st8{clip-path:url(#oval2_2_);fill:#F4C5AE;}
+	.st9{clip-path:url(#oval2_2_);fill:#E2E1E0;}
+</style>
+<circle id="oval2" class="st0" cx="141" cy="141" r="141"/>
+<g>
+	<defs>
+		<circle id="oval2_1_" cx="141" cy="141" r="141"/>
+	</defs>
+	<clipPath id="oval2_2_">
+		<use xlink:href="#oval2_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="group4" class="st1">
+		<polygon id="polygon5" class="st2" points="141,220 141,155.5 109,155.5 		"/>
+	</g>
+	<g id="group5" class="st1">
+		<polygon id="polygon6" class="st3" points="141,220 141,155.5 173,155.5 		"/>
+	</g>
+	<g id="group2" class="st1">
+		<polygon id="polygon" class="st4" points="152.3,197.2 173,155.5 109,155.5 129.6,197 		"/>
+	</g>
+	<polygon id="polygon4" class="st5" points="152.4,197 173,155.5 141,155.5 141,197 	"/>
+	<rect id="rectangle" x="109" class="st6" width="32" height="156"/>
+	<rect id="rectangle2" x="141" class="st7" width="32" height="156"/>
+	<polygon id="polygon2" class="st8" points="125.5,138 141.5,156 109.5,156 	"/>
+	<polygon id="polygon3" class="st5" points="156.5,138 172.5,156 140.5,156 	"/>
+	<ellipse id="oval3" class="st9" cx="140.5" cy="236.5" rx="10.5" ry="3.5"/>
+</g>
+</svg>
